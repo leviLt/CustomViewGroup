@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomViewGroup">
+        <!--城市的名字数组-->
+        <attr name="arrays" format="reference"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name">
+        <item>成都</item>
+        <item>自贡~</item>
+        <item>乐山</item>
+        <item>资阳~</item>
+        <item>德阳</item>
+        <item>绵阳~</item>
+        <item>简阳</item>
+        <item>宜宾</item>
+        <item>泸州~</item>
+        <item>成都</item>
+        <item>自贡~</item>
+        <item>乐山</item>
+        <item>资阳~</item>
+        <item>德阳</item>
+        <item>绵阳~</item>
+        <item>简阳</item>
+        <item>宜宾~</item>
+        <item>泸州</item>
+    </string-array>
+</resources>
